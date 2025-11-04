@@ -1,0 +1,7 @@
+C:\Users\E38365\source\repos\ExercicioCSharp\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.exe.config
+C:\Users\E38365\source\repos\ExercicioCSharp\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.exe
+C:\Users\E38365\source\repos\ExercicioCSharp\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.pdb
+C:\Users\E38365\source\repos\ExercicioCSharp\MeuPrimeiroProjeto\obj\Debug\Exercicio1.csprojAssemblyReference.cache
+C:\Users\E38365\source\repos\ExercicioCSharp\MeuPrimeiroProjeto\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\E38365\source\repos\ExercicioCSharp\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.exe
+C:\Users\E38365\source\repos\ExercicioCSharp\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.pdb
